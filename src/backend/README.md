@@ -38,13 +38,13 @@ This file defines [permissions](https://support.wix.com/en/article/velo-about-we
 ```js
 "backend/myFile.jsw": {
   "siteOwner" : {
-    "invoke" : // Boolean
+    "invoke" : 
   },
   "siteMember" : {
-    "invoke" : // Boolean
+    "invoke" : 
   },
   "anonymous" : {
-    "invoke" : // Boolean
+    "invoke" : 
   }  
 }
 ```
